@@ -1,0 +1,126 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Outfit", sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #f4f4f4;
+}
+
+/* Blue Underline Hide */
+.icon {
+    text-decoration: none;
+}
+
+.icon i, .icon span {
+    text-decoration: none;
+}
+
+
+/* Wrapper */
+.wrapper {
+    display: flex;
+    gap: 20px;
+}
+
+/* Social Media Icons */
+.icon {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: white;
+    width: 60px; /* Default circle size */
+    height: 60px;
+    border-radius: 50%;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: width 0.4s ease-in-out, border-radius 0.4s ease-in-out;
+    overflow: hidden;
+    white-space: nowrap;
+    padding: 10px;
+}
+
+/* Expand on hover */
+.icon:hover {
+    width: 180px;
+    border-radius: 30px;
+}
+
+/* Icons */
+.icon i {
+    font-size: 28px;
+    margin-left: 10px;
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Text (Initially Hidden) */
+.icon span {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+/* Show text when hovering */
+.icon:hover span {
+    opacity: 1;
+}
+
+/* Specific Colors */
+.icon i.ri-whatsapp-fill {
+    color: #25D366;
+}
+
+.icon i.ri-facebook-fill {
+    color: #1877F2;
+}
+
+.icon i.ri-instagram-line {
+    color: #E4405F;
+}
+
+.icon i.ri-linkedin-box-fill {
+    color: #0077B5;
+}
+
+.icon i.ri-youtube-fill {
+    color: #FF0000;
+}
+
+/* Scale icons on hover */
+.icon:hover i {
+    transform: scale(1.2);
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.wrapper {
+    flex: 1; /* Pushes the footer to the bottom */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 15px;
+    padding: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    color: #000000;
+    font-family: 'Outfit', sans-serif;
+    font-weight: bold;
+    position: relative;
+    width: 100%;
+}
