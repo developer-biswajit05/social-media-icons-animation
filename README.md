@@ -1,2 +1,26 @@
-# social-media-icons-animation
-Social Media Icons Animation - A simple and stylish social media icon hover animation using HTML, CSS, and Remix Icon library.
+# Social Media Icons Animation 🚀  
+
+An elegant and interactive social media icon animation built using **HTML** and **CSS**. This project features smooth hover effects that expand icons while revealing platform names, enhancing user engagement and visual appeal.
+
+## 🌍 **Live Demo**  
+🔗 [View the Live Project](YOUR_LIVE_WEBSITE_URL)  
+
+---
+
+## 📌 **Features**  
+✅ Smooth hover animation with expanding effect  
+✅ Minimalist and responsive design  
+✅ Integrated with **Google Fonts** and **Remix Icons**  
+✅ Supports major social platforms: WhatsApp, Facebook, Instagram, LinkedIn, YouTube  
+
+---
+
+## 🛠 **Technologies Used**  
+- **HTML5** – Structured and semantic markup  
+- **CSS3** – Modern styling and animations  
+- **Remix Icons** – Lightweight, scalable icon library  
+- **Google Fonts** – Custom typography using the *Outfit* font  
+
+---
+
+## 📂 **Project Structure**  
