@@ -3,7 +3,7 @@
 An elegant and interactive social media icon animation built using **HTML** and **CSS**. This project features smooth hover effects that expand icons while revealing platform names, enhancing user engagement and visual appeal.
 
 ## 🌍 **Live Demo**  
-🔗 [View the Live Project](YOUR_LIVE_WEBSITE_URL)  
+🔗 [View the Live Project](https://developer-biswajit05.github.io/social-media-icons-animation/)
 
 ---
 
