@@ -4,6 +4,7 @@ An elegant and interactive social media icon animation built using **HTML** and 
 
 ## 🌍 **Live Demo**  
 🔗 [View the Live Project](https://developer-biswajit05.github.io/social-media-icons-animation/)
+![Social Medias Icons](https://github.com/user-attachments/assets/d2c66766-1c37-4539-b6e9-85c7d164b2f9)
 
 ---
 
