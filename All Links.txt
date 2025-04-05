@@ -1,0 +1,16 @@
+Remix Icons CDN Link –
+
+<link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css"
+rel="stylesheet">
+
+
+✦ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+All Social Icons Link –
+
+<i class="ri-whatsapp-fill"></i>
+<i class="ri-instagram-line"></i>
+<i class="ri-linkedin-box-fill"></i>
+<i class="ri-github-fill"></i>
+<i class="ri-youtube-fill"></i>
